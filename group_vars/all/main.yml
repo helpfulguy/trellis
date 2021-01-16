@@ -1,6 +1,6 @@
 composer_keep_updated: true
 apt_cache_valid_time: 3600
-apt_package_state: present
+apt_package_state: latest
 apt_security_package_state: latest
 apt_dev_package_state: latest
 ntp_timezone: Etc/UTC
